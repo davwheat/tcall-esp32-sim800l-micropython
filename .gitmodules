@@ -1,0 +1,3 @@
+[submodule "SIM800L\\"]
+	path = SIM800L\\
+	url = https://github.com/davwheat/SIM800L_TTGO_Drivers.git
